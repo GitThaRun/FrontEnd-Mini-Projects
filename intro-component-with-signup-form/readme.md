@@ -11,7 +11,7 @@ Signup UI form with modern layout.
 - CSS
 
 ## 📸 Screenshot
-![Uploading intropagepreview.png…]()
+<img width="2282" height="1660" alt="intropagepreview" src="https://github.com/user-attachments/assets/b748b13f-7e40-4cb5-8806-0ccbec36d9e9" />
 
 ## 📍 How to Run
 Open `index.html`.
