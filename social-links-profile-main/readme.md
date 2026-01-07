@@ -11,7 +11,7 @@ UI card with social icons and links.
 - CSS
 
 ## 📸 Screenshot
-<img width="2282" height="948" alt="sociallinkspreview" src="https://github.com/user-attachments/assets/519e4a3b-4fa3-4d3d-b16b-a5278d48caab" />
+<img width="1880" height="800" alt="Screenshot 2026-01-07 205727" src="https://github.com/user-attachments/assets/5827e7cf-390f-4c1c-9748-6d7b969afa32" />
 
 ## 📍 How to Run
 Open `index.html`.
