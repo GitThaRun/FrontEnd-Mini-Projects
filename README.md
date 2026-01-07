@@ -1,34 +1,54 @@
-Projects
--------------
-This Repository Have All The Projects Which Are Made To Develop Front-End Skils.
+# Frontend Mini Projects
 
-New Project->New Skill!!
+A collection of **UI components, design patterns, and frontend clones** built using HTML, CSS, and JavaScript.
 
-## 📁 What You'll Find
-
-- 🎨 **Responsive Web Designs**
-- 🧱 **Basic Layouts using Flexbox/Grid**
-- 💻 **Landing Pages**
-- 🗂️ **Simple UI Components**
-- 🎯 **Practice Projects to improve structure and styling**
+Each project shows:
+- Layout mastery (Flexbox, Grid)
+- UI behavior & patterns
+- Component-level code structure
 
 ---
 
-## 🌱 Why This Repo?
+## 🧩 Projects Included
 
-This repository is part of my **learning journey** as a frontend developer.  
-I’m using it to:
+### UI Components
+- Blog Preview Card
+- Social Links Profile
+- Digital Card
+- FAQ Accordion
 
-- Practice layout & styling  
-- Understand HTML semantics  
-- Learn responsive design  
-- Build a strong UI foundation for future JavaScript & full-stack projects
+### Layout & Grid Designs
+- Bento Grid
+- Chess Board
+- QR Design
+
+### Landing Pages & Forms
+- Huddle Landing Page
+- Intro Signup Form
+- Recipe Page
+
+Each subfolder has a self-contained mini UI.
 
 ---
 
-## 🔗 Connect
+## 🛠 Tech Stack
 
-📬 Let's learn and grow together!  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jami-tharun/) or follow my progress!
+- HTML5  
+- CSS3 (Responsive & positioning)  
+- Basic JavaScript interaction (where applicable)
 
 ---
+
+## 📌 How to Preview
+
+1. Open any project folder  
+2. Open `index.html` in the browser  
+3. Observe UI and interactions
+
+---
+
+## 👤 About
+
+Your Name  
+3rd Year CSE | Frontend Web Developer  
+LinkedIn: https://www.linkedin.com/in/jami-tharun/
