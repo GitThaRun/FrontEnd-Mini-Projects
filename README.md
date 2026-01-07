@@ -49,6 +49,6 @@ Each subfolder has a self-contained mini UI.
 
 ## 👤 About
 
-Your Name  
+Jami Tharun
 3rd Year CSE | Frontend Web Developer  
 LinkedIn: https://www.linkedin.com/in/jami-tharun/
