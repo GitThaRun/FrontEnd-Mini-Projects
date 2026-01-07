@@ -1,11 +1,8 @@
 # Frontend Mini Projects
 
-A collection of **UI components, design patterns, and frontend clones** built using HTML, CSS, and JavaScript.
+A collection of **UI components, layouts, and frontend implementations** built using HTML, CSS, and JavaScript.
 
-Each project shows:
-- Layout mastery (Flexbox, Grid)
-- UI behavior & patterns
-- Component-level code structure
+Several projects are implementations of **real-world UI challenges** based on provided design specifications (such as Frontend Mentor), focusing on **accurate layout, responsiveness, and clean structure**.
 
 ---
 
@@ -27,28 +24,26 @@ Each project shows:
 - Intro Signup Form
 - Recipe Page
 
-Each subfolder has a self-contained mini UI.
-
 ---
 
 ## 🛠 Tech Stack
 
 - HTML5  
-- CSS3 (Responsive & positioning)  
-- Basic JavaScript interaction (where applicable)
+- CSS3 (Flexbox, Grid, Media Queries)  
+- JavaScript (DOM interaction where applicable)
 
 ---
 
-## 📌 How to Preview
+## 🚀 How to View
 
-1. Open any project folder  
-2. Open `index.html` in the browser  
-3. Observe UI and interactions
+Open any project folder and launch `index.html` in your browser.
 
 ---
 
 ## 👤 About
 
-Jami Tharun
-3rd Year CSE | Frontend Web Developer  
+Tharun  
+3rd Year CSE | Frontend Development  
 LinkedIn: https://www.linkedin.com/in/jami-tharun/
+
+
